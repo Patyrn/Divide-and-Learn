@@ -1,5 +1,5 @@
 # Divide-and-Learn
-Code release for the paper A Divide and Conquer Algorithm for Predict+Optimize with Non-Convex Problems
+Code release for the paper A Divide and Conquer Algorithm for Predict+Optimize with Non-Convex Problems published at AAAI-22
 
 There are example files for running experiments for each model in the main folder. 
 
