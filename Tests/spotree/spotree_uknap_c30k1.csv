@@ -1,0 +1,8 @@
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 140.12053418159485 30.37000000000012
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 141.9339611530304 30.37000000000012
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 137.84638738632202 30.37000000000012
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 138.6757185459137 30.37000000000012

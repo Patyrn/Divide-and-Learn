@@ -1,0 +1,20 @@
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 232.67654180526733 191100.0
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 233.4771761894226 191100.0
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 233.55420589447021 191100.0
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 236.07773327827454 191100.0
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 233.2692928314209 191100.0
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 239.54328989982605 191100.0
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 235.4851725101471 191100.0
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 238.0099024772644 191100.0
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 233.60108947753906 191100.0
+"n estimator" "Max Depth" "min samples" "max features" "run time" regret
+50 1000 20 5 234.61307406425476 191100.0
